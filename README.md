@@ -1,4 +1,3 @@
-# Final-Project-AI-LM-CM-EK
 # Project Overview
 An inventory management web service for a video game store.
 The project utilizes a simple back-end API (via REST and GraphQL) that allows the users to interact with the game stores inventory.
